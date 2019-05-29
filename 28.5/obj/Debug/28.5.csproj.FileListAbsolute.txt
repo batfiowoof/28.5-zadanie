@@ -1,0 +1,7 @@
+C:\Users\User\Documents\imeto mi e jeff\28.5\28.5\bin\Debug\28.5.exe.config
+C:\Users\User\Documents\imeto mi e jeff\28.5\28.5\bin\Debug\28.5.exe
+C:\Users\User\Documents\imeto mi e jeff\28.5\28.5\bin\Debug\28.5.pdb
+C:\Users\User\Documents\imeto mi e jeff\28.5\28.5\obj\Debug\28.5.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\imeto mi e jeff\28.5\28.5\obj\Debug\28.5.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\imeto mi e jeff\28.5\28.5\obj\Debug\28.5.exe
+C:\Users\User\Documents\imeto mi e jeff\28.5\28.5\obj\Debug\28.5.pdb
